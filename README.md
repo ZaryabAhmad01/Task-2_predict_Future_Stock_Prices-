@@ -108,14 +108,6 @@ Predicted Next Day Close: $177.32
 (images/stock_prediction_timeseries.png)
 *Comparison of actual stock prices vs Linear Regression predictions*
 
-### 2. Model Accuracy Scatter Plot
-![Scatter Plot](images/stock_prediction_scatter.png)
-*Scatter plot showing predicted vs actual values with perfect prediction line*
-
-### 3. Feature Importance (Random Forest)
-![Feature Importance](images/feature_importance.png)
-*Relative importance of each feature in predicting stock prices*
-
 ## 💡 Key Insights
 
 1. **High Accuracy**: The Linear Regression model achieved 98.5% accuracy (R² = 0.9849)
@@ -182,5 +174,4 @@ This project is for **educational purposes only**. Stock market prediction is in
 - My internship mentor for guidance
 
 ---
-
 
