@@ -163,7 +163,7 @@ This project is for **educational purposes only**. Stock market prediction is in
 ## 👤 Author
 
 **DeveloperHC Intern**
-- GitHub: [zaryab ahmad ] (https://github.com/ZaryabAhmad01)
+- GitHub: zaryab ahmad  (https://github.com/ZaryabAhmad01)
 - Date: March 2026
 - Task: Internship Task 2 - Predict Future Stock Prices (Short-Term)
 
