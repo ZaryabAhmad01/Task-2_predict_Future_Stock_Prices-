@@ -57,23 +57,6 @@ pip install yfinance pandas numpy matplotlib seaborn scikit-learn jupyter
 jupyter notebook Task_02_Predict_Future_Stock_Prices.ipynb
 ```
 
-## 📁 Project Structure
-
-```
-stock-price-prediction/
-│
-├── Task_02_Predict_Future_Stock_Prices.ipynb   # Main notebook
-├── README.md                                    # Project documentation
-├── requirements.txt                              # Dependencies
-│
-├── images/                                       # Saved visualizations
-│   ├── stock_prediction_timeseries.png
-│   ├── stock_prediction_scatter.png
-│   └── feature_importance.png
-│
-└── data/                                         # Data directory
-    └── aapl_stock_data.csv                       # Exported dataset
-```
 
 ## 🧠 Methodology
 
