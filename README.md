@@ -1,6 +1,4 @@
 # Task-2_predict_Future_Stock_Prices-
-# Stock Price Prediction - Task 2
-
 ## 📈 Predicting Apple Stock Prices Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10.11-blue)
