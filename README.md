@@ -104,7 +104,8 @@ Predicted Next Day Close: $177.32
 ## 📊 Visualizations
 
 ### 1. Actual vs Predicted Prices
-![Stock Price Prediction](images/stock_prediction_timeseries.png)
+![<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/77774a02-3ddb-43e6-9012-8425624d5cfa" />
+](images/stock_prediction_timeseries.png)
 *Comparison of actual stock prices vs Linear Regression predictions*
 
 ### 2. Model Accuracy Scatter Plot
